@@ -22,7 +22,7 @@
 
 ## Overview
 
-A vanilla javascript project from freeCodeCamp. An project with a basics IT profiles an their information.
+A vanilla javascript project from freeCodeCamp.
 
 ## Contact
 
