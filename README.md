@@ -1,4 +1,4 @@
-<h1 align="center">###############</h1>
+<h1 align="center">Questions by Hernan Singh</h1>
 
 <div align="center">
    a project from <a href="http://freecodecamp.org" target="_blank">freeCodeCamp.org</a>.
@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="###############">
+    <a href="https://hernansingh.github.io/questions-faq/">
       Result
     </a>
     <span> | </span>
-    <a href="###############">
+    <a href="https://vanilla-js-basic-project-7-questions.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="###############">
+    <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4&t=6506s">
       Tutorial
     </a>
   </h3>
@@ -22,7 +22,7 @@
 
 ## Overview
 
-A vanilla javascript project from freeCodeCamp.
+One basic vanilla javascript project of questions with a drop down answer. Project from freeCodeCamp
 
 ## Contact
 
