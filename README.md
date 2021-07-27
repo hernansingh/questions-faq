@@ -20,19 +20,9 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Built With](#built-with)
-- [Contact](#contact)
-
-<!-- OVERVIEW -->
-
 ## Overview
 
-A vanilla javascript project - from freeCodeCamp ()
+A vanilla javascript project from freeCodeCamp. An project with a basics IT profiles an their information.
 
 ## Contact
 
